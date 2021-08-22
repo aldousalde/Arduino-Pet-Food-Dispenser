@@ -8,11 +8,11 @@ An Arduino-based project created using Arduino IDE and code written with C++ wit
 
 ### Schematic Diagram (Fritzing)
 
-<p align="center" style="padding-top:2rem;"><img src="./Schematic-Diagram.jpg"  height="400" ></p>
+<p align="center" style="padding-top:2rem;"><img src="./images/Schematic-Diagram.jpg"  height="400" ></p>
 
 ### Android App (MIT App Inventor)
 
-<p align="center" style="padding-top:2rem;"><img src="./Android-app.jpg"  height="400" ></p>
+<p align="center" style="padding-top:2rem;"><img src="./images/Android-app.jpg"  height="400" ></p>
 
 ## Date Created
 
