@@ -6,7 +6,7 @@ An Arduino-based project created using Arduino IDE and code written with C++ wit
 
 Autonomous Pet Food Dispenser
 
-## Arduino Board & Modules
+### Arduino Board & Modules
 
 <ul>
   <li> Arduino UNO R3 board </li>
